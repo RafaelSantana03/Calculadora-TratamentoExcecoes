@@ -1,0 +1,14 @@
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\bin\Debug\net8.0\ExercicioCalculadora.exe
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\bin\Debug\net8.0\ExercicioCalculadora.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\bin\Debug\net8.0\ExercicioCalculadora.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\bin\Debug\net8.0\ExercicioCalculadora.dll
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\bin\Debug\net8.0\ExercicioCalculadora.pdb
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\ExercicioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\ExercicioCalculadora.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\ExercicioCalculadora.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\ExercicioCalculadora.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\ExercicioCalculadora.dll
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\refint\ExercicioCalculadora.dll
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\ExercicioCalculadora.pdb
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\ExercicioCalculadora.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Tratamento de erros\Tratamento de erros\ExercicioCalculadora\obj\Debug\net8.0\ref\ExercicioCalculadora.dll
